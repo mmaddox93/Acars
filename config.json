@@ -1,0 +1,11 @@
+{
+  "_": "DO NOT MAKE CHANGES TO THIS FILE. MAKE A config.local.json AND PLACE THEM THERE",
+  "Config": {
+    "App": {
+      "ReleaseType": "release"
+    },
+    "Logger": {
+      "Level": "Debug"
+    }
+  }
+}
